@@ -1,0 +1,8 @@
+.main-image {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.thumbnail {
+  margin-bottom: 50px;
